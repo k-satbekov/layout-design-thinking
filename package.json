@@ -1,0 +1,23 @@
+{
+  "name": "layout-design-thinking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "style": "sass --watch sass/styles.scss sass/styles.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k-satbekov/layout-design-thinking.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k-satbekov/layout-design-thinking/issues"
+  },
+  "homepage": "https://github.com/k-satbekov/layout-design-thinking#readme",
+  "dependencies": {
+    "normalize-scss": "^7.0.1"
+  }
+}

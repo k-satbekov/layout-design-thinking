@@ -1,0 +1,33 @@
+.strategies {
+    padding: 3rem 0;
+}
+
+.strategies__title {
+    margin: 0 0 1.4rem;
+}
+
+.strategies__description {
+    margin: 0 0 2.4rem;
+}
+
+.strategies__tags {
+    margin-bottom: 3.1rem;
+}
+
+.strategy-wrapper {
+    >* {
+        margin-bottom: 3rem;
+    }
+}
+
+.strategy__content {
+    padding: 2.4rem 3.3rem 2.6rem;
+}
+
+.strategy__name {
+    margin: 0 0 2.9rem;
+}
+
+.strategy {
+    cursor: pointer;
+}
